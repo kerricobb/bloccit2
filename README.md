@@ -17,8 +17,9 @@ To get started, just do the following:
 Happy coding!
 The Cloud9 IDE team
 
-
-## Support & Documentation
+####Ruby 2.0.0
+###Heroku app kerricobb-bloccit2
+[My app is hosted on Heroku](https://kerricobb-bloccit2.herokuapp.com/)
 
 Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
 To watch some training videos, visit http://www.youtube.com/user/c9ide
